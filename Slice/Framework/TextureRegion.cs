@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
     /**
      * TextureRegion defines a region of a specific texture which can be used
      * for custom UV Mapping Routines.
