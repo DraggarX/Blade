@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
 
     /**
      * Contains static functionality for performing Triangulation on arbitrary vertices.
