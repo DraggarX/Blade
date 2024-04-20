@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
     /**
      * Represents a simple 3D Triangle structure with position
      * and UV map. The UV is required if the slicer needs
