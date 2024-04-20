@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
 
     /**
      * A Basic Structure which contains intersection information
