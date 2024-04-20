@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
     public struct Line {
         private readonly Vector3 m_pos_a;
         private readonly Vector3 m_pos_b;
