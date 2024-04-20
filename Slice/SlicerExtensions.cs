@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
     /**
      * Define Extension methods for easy access to slicer functionality
      */
