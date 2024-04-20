@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
     /**
      * Contains static functionality to perform geometric intersection tests.
      */
