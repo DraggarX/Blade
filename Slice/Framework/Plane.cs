@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EzySlice {
+namespace Slice {
 
     /**
      * Quick Internal structure which checks where the point lays on the
